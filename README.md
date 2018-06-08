@@ -1,26 +1,14 @@
-# This is a large heading
+# Nikola Aksentijevic
 
-## This is a smaller heading
+## Operativni sistemi
 
-And as *imagination* bodies forth,
-The forms of things unknown, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local habitation and a *name*.
+Student softverskog inzenjerstva. Broj indeksa 559/2016
 
-- This is
-- an unordered
-- list
+- Operativni sistem *LinuxMint*
+- Profesor *Vladimir Milovanovic*
 
-1. This is
-2. an ordered
-3. list
+1. Zavrseni kursevi
+2. Ispit junski rok
+3. Barem sest haha
 
-Here is `some code` in the middle of a sentence.
-```
-This is
-a block
-of code
-```
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+Moj twitch [kanal](https://twitch.tv/elm_wizard).
